@@ -7,7 +7,7 @@
 <p align="center">
   <img
     alt="Typing intro"
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Full%20Stack%20Developer%20%F0%9F%9A%80;Machine%20Learning%20Engineer%20🤖;Always%20Learning%20%F0%9F%93%9A" />
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Full%20Stack%20Developer%20%F0%9F%9A%80;Machine%20Learning%20Engineer%20🤖;Always%20Learning%20%F0%9F%93%9A" />
 </p>
 <!-- Beautiful divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
@@ -181,7 +181,7 @@
 <!-- Snake eating commits animation -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpzMzh6MTNrOHA5eWNseW9ibnQ2Yml1YTR5dTRpZTZpdGI5d2IyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPdwt79PXjMEo/giphy.gif" width="35" height ="25">
     &nbsp;Contribution Snake&nbsp;
   </h2>
   <picture>
