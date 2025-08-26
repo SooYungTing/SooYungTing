@@ -7,7 +7,7 @@
 <p align="center">
   <img
     alt="Typing intro"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Full%20Stack%20Developer%20%F0%9F%9A%80;Machine%20Learning%20Engineer%20🤖;Always%20Learning%20%F0%9F%93%9A" />
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6466F1&multiline=true&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;Machine+Learning+Engineer+%F0%9F%A4%96;Always+Learning++%F0%9F%A4%96)](https://git.io/typing-svg" />
 </p>
 
 <!-- Beautiful divider -->
