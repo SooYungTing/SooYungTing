@@ -7,7 +7,7 @@
 <p align="center">
   <img
     alt="Typing intro"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Full%20Stack%20Developer%20%F0%9F%9A%80;Hackathon%20Enthusiast%20%F0%9F%8F%86;Problem%20Solver%20%F0%9F%A7%A9;Always%20Learning%20%F0%9F%93%9A" />
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Full%20Stack%20Developer%20%F0%9F%9A%80;Machine%20Learning%20Engineer%20🤖;Always%20Learning%20%F0%9F%93%9A" />
 </p>
 <!-- Beautiful divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
