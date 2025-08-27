@@ -133,7 +133,10 @@
 </div>
 
 <div align="center">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=SooYungTing&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e39777&fire=e39777&currStreakLabel=e39777"/>
+  <img
+    height="200"
+    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=SooYungTing&theme=radical&hide_border=true&background=0D1117&ring=e39777&fire=e39777&currStreakLabel=e39777&cache_seconds=86400" />
 </div>
 
 <br/>
