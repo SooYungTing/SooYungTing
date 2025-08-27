@@ -126,7 +126,7 @@
         <img height="200" src="https://github-readme-stats.vercel.app/api?username=SooYungTing&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=📊%20GitHub%20Stats"/>
       </td>
       <td>
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SooYungTing&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=320"/>
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SooYungTing&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800"/>
       </td>
     </tr>
   </table>
