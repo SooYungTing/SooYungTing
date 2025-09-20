@@ -138,7 +138,7 @@
   <img
     height="200"
     alt="GitHub Streak"
-    src="https://streak-stats.demolab.com?user=SooYungTing&theme=radical&hide_border=true&background=0D1117&ring=e39777&fire=e39777&currStreakLabel=e39777&cache_seconds=86400" />
+    src="https://streak-stats.demolab.com/?user=SooYungTing&theme=radical&hide_border=true&background=0D1117&ring=e39777&fire=e39777&currStreakLabel=e39777&v=3" />
 </div>
 
 <br/>
