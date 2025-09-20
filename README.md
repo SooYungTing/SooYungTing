@@ -134,12 +134,9 @@
   </table>
 </div>
 
-<div align="center">
-  <img
-    height="200"
-    alt="GitHub Streak"
-    src="https://streak-stats.demolab.com/?user=SooYungTing&theme=radical&hide_border=true&background=0D1117&ring=e39777&fire=e39777&currStreakLabel=e39777&v=3" />
-</div>
+<!-- <div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SooYungTing&theme=radical&hide_border=true&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+</div> -->
 
 <br/>
 
