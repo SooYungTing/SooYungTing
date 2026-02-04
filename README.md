@@ -125,10 +125,10 @@
   <table>
     <tr>
       <td>
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=SooYungTing&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=📊%20GitHub%20Stats"/>
+        <img height="200" src="https://github-readme-stats-yung.vercel.app/api?username=SooYungTing&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=%F0%9F%93%8A%20GitHub%20Stats&cache_seconds=86400"/>
       </td>
       <td>
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SooYungTing&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800"/>
+        <img height="200" src="https://github-readme-stats-yung.vercel.app/api/top-langs/?username=SooYungTing&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400"/>
       </td>
     </tr>
   </table>
@@ -165,7 +165,7 @@
         <h3 align="center">🚀 Fusion Hack 2024</h3>
         <div align="center">  
           <a href="https://github.com/SooYungTing/Fusion-Hack-2024" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SooYungTing&repo=Fusion-Hack-2024&theme=radical&hide_border=true" />
+            <img src="https://github-readme-stats-yung.vercel.app/api/pin/?username=SooYungTing&repo=Fusion-Hack-2024&theme=radical&hide_border=true&cache_seconds=86400" />
           </a>
         </div>
       </td>
@@ -204,7 +204,7 @@
   <a href="https://www.linkedin.com/in/yung-ting-soo-267a71235/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse" />
   </a>
-  <a href="sooyungting@gmail.com">
+  <a href="mailto:sooyungting@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://yungtingsoo.vercel.app/" target="_blank">
