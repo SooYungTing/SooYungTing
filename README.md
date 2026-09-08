@@ -147,7 +147,7 @@
     &nbsp;Git Activity&nbsp;
   </h2>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SooYungTing&custom_title=Contribution%20Graph&bg_color=0D1117&color=e39777&line=e39777&point=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-activity-graph-alpha-three.vercel.app/graph?username=SooYungTing&custom_title=Contribution%20Graph&bg_color=0D1117&color=e39777&line=e39777&point=FFFFFF&hide_border=true" />
 </div>
 
 <!-- Featured projects with beautiful cards -->
@@ -162,11 +162,15 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🚀 Fusion Hack 2024</h3>
+        <h3 align="center">🤖 AI Resume Reviewer</h3>
         <div align="center">  
-          <a href="https://github.com/SooYungTing/Fusion-Hack-2024" target="_blank">
-            <img src="https://github-readme-stats-yung.vercel.app/api/pin/?username=SooYungTing&repo=Fusion-Hack-2024&theme=radical&hide_border=true&cache_seconds=86400" />
+          <a href="https://github.com/SooYungTing/ai-resume-reviewer">
+            <img src="https://github-readme-stats-yung.vercel.app/api/pin/?username=SooYungTing&repo=ai-resume-reviewer&theme=radical&hide_border=true" />
           </a>
+          <p>
+            Production-grade AI platform for ATS scoring,
+            keyword-gap analysis and recruiter-quality resume rewrites.
+          </p>
         </div>
       </td>
       <td width="50%">
